@@ -1,0 +1,7 @@
+streamlit==1.52.2
+regex==2023.10.3
+nltk==3.8.1
+sentencepiece==0.2.0
+torch==2.6.0
+numpy==1.26.4
+joblib==1.4.2
