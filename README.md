@@ -56,7 +56,7 @@ Por ello, este proyecto busca implementar y comparar distintos enfoques de *Mach
 - Antes del preprocesamiento, se realizó un análisis exploratorio de datos (EDA, por sus siglas en inglés) con el objetivo de entender, estadísticamente, el conjunto de datos en base a la cantidad oraciones por longitud y cantidad de clases:
 
 <p align="center">
-  <img src="./images/Cantidad_clases.JPG" width="350"/> <img src="/images/Cantidad_de_palabras_por_length.JPG" width="400"/> 
+  <img src="./images/Cantidad%20clases.JPG" width="350"/> <img src="/images/Cantidad%20de%20palabras%20por%20length.JPG" width="400"/> 
 </p>
 
 <p align="center">
