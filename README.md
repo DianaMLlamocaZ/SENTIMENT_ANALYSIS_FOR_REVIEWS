@@ -25,7 +25,7 @@
   
 ----
 
-## 2) PLANTEANMIENTO DEL PROBLEMA
+## 2) PLANTEAMIENTO DEL PROBLEMA
 En la actualidad, gran cantidad de información generada por los usuarios en redes sociales, reseñas y plataformas digitales se expresa en forma de texto no estructurado. Este tipo de datos contiene opiniones y percepciones que son valiosas, pero difíciles de analizar manualmente debido a su volumen.
 
 El análisis de sentimientos (*Sentiment Analysis*) surge como una solución para procesar automáticamente estos textos y clasificar las opiniones en categorías como positivas, negativas o neutras. Esto permite transformar grandes volúmenes de texto en información útil para la toma de decisiones.
