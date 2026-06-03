@@ -217,7 +217,7 @@ Los enfoques utilizados fueron *Machine Learning (ML)* y *Deep Learning (DL)*.
   - A los modelos secuenciales se les aplicó *masking* manual, para evitar que realicen cálculos matemáticos sobre los valores del *padding* y sesguen los resultados.
   - Se utilizó la técnica *Early Stopping* durante el entrenamiento de los modelos para evitar el *overfitting*: si durante 5 épocas seguidas no hay mejora del *validation loss* (no disminución continua durante 5 veces) se detiene el entrenamiento, y se guarda el modelo de la época con menor *validation loss*.
   
-    **NOTA:** Los hiperparámetros de los modelos fueron seleccionados tras varias iteraciones experimentales preliminares, con el objetivo de identificar una configuración que ofreciera un buen rendimiento general sin realizar ajustes específicos para cada modelo.
+    **NOTA:** Los hiperparámetros de los modelos fueron seleccionados tras varias iteraciones experimentales preliminares, con el objetivo de identificar una configuración que ofreciera un buen rendimiento general.
 
 **IMPORTANTE**: En ambos enfoques se realizó la división de datos en 80% para entrenamiento, y 20% para validación y test.
 
