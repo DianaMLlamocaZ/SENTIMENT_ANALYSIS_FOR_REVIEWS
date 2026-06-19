@@ -5,7 +5,7 @@
 </div>
 
 ## 1) DESCRIPCIÓN
-- Este proyecto contiene la evaluación de métodos de *Machine Learning (Logistic Regression, Tf-Idf)* y *Deep Learning (GRU, LSTM, Attention)* para la tarea de *Sentiment Analysis* en el dataset [*"Product Reviews Amazon"*](https://kaggle.com/datasets/arhamrumi/amazon-product-reviews) de la plataforma *Kaggle*. Dado que el *dataset* está en inglés, el pipeline de inferencia y la interfaz están optimizados para entradas en este idioma, ya que los modelos fueron entrenados con este conjunto de datos.
+- Este proyecto contiene la evaluación de métodos de *Machine Learning (Logistic Regression, Tf-Idf)* y *Deep Learning (GRU, LSTM, GRU+Attention)* para la tarea de *Sentiment Analysis* en el dataset [*"Product Reviews Amazon"*](https://kaggle.com/datasets/arhamrumi/amazon-product-reviews) de la plataforma *Kaggle*. Dado que el *dataset* está en inglés, el pipeline de inferencia y la interfaz están optimizados para entradas en este idioma, ya que los modelos fueron entrenados con este conjunto de datos.
 
 - Mediante el entrenamiento y prueba de los modelos, se analizó sus rendimientos en el conjunto de datos actual y se comparó la eficacia entre ellos, a través de métricas, en la clasificación de *reviews* (negativa, neutral o positiva).
 
